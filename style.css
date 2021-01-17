@@ -6,19 +6,13 @@ body{
 img{
   width:600px;
 }
-.links:hover {
-    background-color:#84db37;
-}
-a {
-   text-decoration: none; 
-    color: crimson;
-    text-shadow: 2px 2px gainsboro;
-}
-.article:hover{
-    color: fuchsia;
-}
-#writings a {
-    text-shadow: none !important;
-    text-decoration: underline !important;
-    color: blue !important;
+.links {
+    float: right;
+    color: #fc0303;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
 }
